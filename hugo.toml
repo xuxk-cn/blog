@@ -1,3 +1,14 @@
+# hugo.toml
+
+# 这里可以填真实网址，也可以暂时留空
+baseURL = "https://blog.xuxk3581.netlib.re/" 
+
+# 【关键设置】开启这两项，通常能解决 99% 的样式丢失问题
+relativeURLs = true
+canonifyURLs = true
+
+theme = "relearn" 
+
 title = "芹菜的blog"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
