@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Celery&#39;s Journal Launch :: Celery&#39;s Blog</title>
+    <link>//localhost:1313/en/log/first-day/index.html</link>
+    <description>🥬 Celery’s Journal Launch 🗓️ DATE: 2025-11-26&#xA;🎀 MOOD: calm &amp; quietly excited&#xA;🍵 NOTE: First journal entry! This space will collect work logs, study notes, inspirations and little tools.&#xA;I want the blog to feel like a cozy digital notebook. Future sections will cover daily work notes, learning progress, idea sparks, favorite resources and mini projects.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/en/log/first-day/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

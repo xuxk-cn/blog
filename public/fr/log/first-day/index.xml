@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ouverture du carnet de Céleri :: Blog de Céleri</title>
+    <link>//localhost:1313/fr/log/first-day/index.html</link>
+    <description>🥬 Ouverture du carnet de Céleri 🗓️ DATE : 26/11/2025&#xA;🎀 HUMEUR : calme et motivée&#xA;Ce carnet rassemblera mes notes de travail, mes progrès d’apprentissage, mes idées et mes ressources préférées. Comme un bullet journal numérique pour garder chaque inspiration.</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="//localhost:1313/fr/log/first-day/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

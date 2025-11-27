@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Celery&#39;s Blog</title>
+    <link>//localhost:13462/en/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:13462/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logbook</title>
+      <link>//localhost:13462/en/log/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:13462/en/log/index.html</guid>
+      <description>Welcome to Celery’s multilingual logbook. Use the sidebar chapters to browse each day.&#xA;Day 1🥬 Celery’s Journal Launch 🗓️ DATE: 2025-11-26 🎀 MOOD: calm &amp; quietly excited 🍵 NOTE: First journal entry! This space will collect work logs, study notes, inspirations and little tools. I want the blog to feel like a cozy digital notebook. Future sections will cover daily work notes, learning progress, idea sparks, favorite resources and mini projects.</description>
+    </item>
+  </channel>
+</rss>
