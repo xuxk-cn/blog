@@ -1,6 +1,6 @@
 +++
 title = "芹菜 Blog 开张"
-linkTitle = "博客开张"
+linkTitle = "芹菜的博客"
 weight = 1
 chapter = true
 +++
