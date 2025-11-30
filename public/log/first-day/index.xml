@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>芹菜 Blog 开张 :: 芹菜的blog</title>
+    <link>http://localhost:1313/log/first-day/index.html</link>
+    <description>🥬 欢迎来到芹菜的blog！ 🗓️ DATE: 2025/11/26&#xA;🎀 MOOD: calm &amp; ready to create&#xA;🍵 NOTE: 这是我的第一篇 Blog，打算长期记录生活中的所有灵感与积累。&#xA;🧸 日常 · Daily Log 决定把这个 Blog 打造成一个轻松、可爱又实用的小空间。&#xA;以后这里会写下我的：&#xA;工作记录 学习过程 灵感瞬间 小工具收藏 好文章摘录 想法草稿 以及所有值得留下的东西 像一本电子笔记，可以随时翻开。&#xA;📚 学习记录 · Study Notes 未来会记录：</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="http://localhost:1313/log/first-day/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

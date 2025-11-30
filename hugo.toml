@@ -7,8 +7,6 @@ baseURL = "https://blog.xuxk3581.netlib.re/"
 relativeURLs = true
 canonifyURLs = true
 
-theme = "relearn" 
-
 title = "芹菜的blog"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
